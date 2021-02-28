@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    width:100%
+    
+}
+xyz,tr,td{
+ border:none;
+}
+#pan th{
+    background-color:maroon;
+    border: 1px solid #ddd;
+    padding:8px;
+    width: 100%;
+    text-decoration-color: white;
+}
+#id tr,td{
+    border:1px solid black;
+    background-color:lightgoldenrodyellow;
+    
+}
+.mini{
+    width:10px;
+}
+
+.check{
+    width:10px;
+    }
+    .container{
+        text-align: center;
+    }
